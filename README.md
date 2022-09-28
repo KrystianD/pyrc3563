@@ -1,4 +1,4 @@
-pyrc3586
+pyrc3563
 =====
 
 Python library and CLI tool for RC3563 battery impedance meter.
