@@ -22,3 +22,7 @@ python -m cli /dev/ttyUSB0
 # V: 4.118, R: 0.028264 # 28.264 mΩ
 # V: 0.000, R: inf # overflow - nothing connected
 ```
+
+## Credits
+
+Based on the great work of [Maciej Grela](https://gist.github.com/mgrela/e5e52e22e5d748645bf4d0ebe2c133dd).
