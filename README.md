@@ -25,4 +25,4 @@ python -m cli /dev/ttyUSB0
 
 ## Credits
 
-Based on the great work of [Maciej Grela](https://gist.github.com/mgrela/e5e52e22e5d748645bf4d0ebe2c133dd).
+Based on the great work of [Maciej Grela](https://gist.github.com/enkiusz/e5e52e22e5d748645bf4d0ebe2c133dd).
